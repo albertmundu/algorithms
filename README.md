@@ -4,4 +4,4 @@
 
 **Algorithms added:**
 - Binary Search {[code](https://github.com/albertmunda/algorithms/blob/master/ds/binary_search.c)}
-- Kadane's Algorithm
+- Kadane's Algorithm {[code](https://github.com/albertmunda/algorithms/blob/master/ds/kadane_algorithm.c)}
