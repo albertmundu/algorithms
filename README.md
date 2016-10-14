@@ -7,4 +7,5 @@
 - Kadane's Algorithm {[code](https://github.com/albertmunda/algorithms/blob/master/ds/kadane_algorithm.c)}
 - Insertion Sort {[code](https://github.com/albertmunda/algorithms/blob/master/ds/insertion_sort.c)}
 - Heap Sort {[code](https://github.com/albertmunda/algorithms/blob/master/ds/heap_sort.c)}
+- Quick Sort {[code](https://github.com/albertmunda/algorithms/blob/master/ds/quick_sort.c)}
 
